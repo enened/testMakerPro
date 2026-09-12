@@ -1,5 +1,5 @@
 # Test Maker Pro
-A simple web application which automatically generates and grades multiple choice tests using AI. Won best generative AI hack for the Treasure Hacks 3.5 Hackathon. 
+A web application which automatically generates and grades multiple choice tests using AI. Won 3rd best generative AI hack for the Treasure Hacks 3.5 Hackathon. 
 
 ## Features
 * Automatically generate multiple choice practice tests based on a prompt
